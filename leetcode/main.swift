@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+// 13. Roman to Integer
+print(romanToInt("III"))
+print(romanToInt("LVIII"))
+print(romanToInt("MCMXCIV"))
